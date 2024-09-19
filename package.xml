@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>dvrk_config_cuhk</name>
+  <version>2.3.0</version>
+  <description>CUHK dVRK config files</description>
+  <maintainer email="anton.deguet@jhu.edu">Anton Deguet</maintainer>
+  <license>MIT</license>
+  <url>https://github.com/dvrk-config/dvrk_config_cuhk</url>
+  <export>
+    <build_type>cmake</build_type>
+  </export>
+</package>
