@@ -1,6 +1,7 @@
 /* -*- Mode: Javascript; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*- */
 {
     "io": {
+        "firewire-protocol": "broadcast-read-write",
         "close-all-relays": true
     }
     ,
@@ -10,6 +11,16 @@
             "name": "PSM1",
             "type": "PSM",
             "serial": "28124"
+        },
+        {
+            "name": "PSM2",
+            "type": "PSM",
+            "serial": "33281"
+        },
+        {
+            "name": "ECM",
+            "type": "ECM",
+            "serial": "29738"
         }
     ]
 }

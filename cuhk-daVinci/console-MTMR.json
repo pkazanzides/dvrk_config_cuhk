@@ -1,15 +1,11 @@
+/* -*- Mode: Javascript; tab-width: 4; indent-tabs-mode: nil; c-basic-offset: 4 -*- */
 {
-    // see https://github.com/jhu-dvrk/sawIntuitiveResearchKit/wiki/Configuration-File-Formats
-    "io": {
-        // "close-all-relays": true  // uncomment to avoid calling qlacommand -c close-relays
-    }
-    ,
     "arms":
     [
         {
             "name": "MTMR",
             "type": "MTM",
-            "serial": "28002"
+            "serial": "31519"
         }
     ]
 }

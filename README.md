@@ -22,3 +22,6 @@ CUHK hardware setup. Then, the potentiometer scale calibration was performed. Th
 were left at their default values (based on the CAL files). The potentiometer distance tolerance for MTMR
 axes 4 and 5 was changed from the default value of 5.0 to 20.0 to match the previous versions of the
 files; without this change, the robot would not home.
+
+The Version 5 XML files for the prior MTMs (41878 and 31519) and for PSM1 (28124), PSM2 (33281) and ECM
+(29738) were created at CUHK by manually updating the Rev 3 files.
